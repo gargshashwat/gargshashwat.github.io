@@ -4,7 +4,7 @@ layout: default
 
 # Essays
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [Essay 1](./another-page.html)
+*   [Essay 2](./another-page.html)
+*   [Essay 3](./another-page.html)
 
